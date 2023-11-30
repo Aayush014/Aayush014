@@ -32,7 +32,7 @@
   <a href="aayushpatel01411@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://instagram.com/aayush_patel_014?igshid=YzAwZjE1ZTI0Zg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   
