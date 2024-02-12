@@ -69,6 +69,7 @@
 </div>
 
 <br/><br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aayush014&label=Profile%20views&color=0e75b6&style=flat" alt="aayush014" /> </p>
 
 <hr/>
 
