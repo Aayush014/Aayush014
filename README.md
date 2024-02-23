@@ -73,9 +73,13 @@ const CrazyChickenDev = {
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush014&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
 </div>
 
+[![Aayush Patel's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aayush014)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/><br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aayush014&label=Profile%20views&color=0e75b6&style=flat" alt="aayush014" /> </p>
 
 <hr/>
+
+
 
 <br/>
