@@ -5,35 +5,40 @@
 <h3 align="center">A passionate Flutter Developer from India</h3>
 <br/>
 
-<div align="center">
+<div>
 
- 🔭 I’m currently working on **Flutter Development**
-
- 🌱 I’m currently learning **Core Flutter**
-
- 👯 I’m looking to collaborate on **Flutter Development**
-
- 🤝 I’m looking for help with **Best Teachers**
-
- 👨‍💻 All of my projects are available at [https://github.com/Aayush014?tab=repositories](https://github.com/Aayush014?tab=repositories)
-
- 💬 Ask me about **C , C++ , Dart , Flutter**
-
- 📫 How to reach me **aayushpatel01411@gmail.com**
-
- 📄 Know about my experiences [https://github.com/Aayush014](https://github.com/Aayush014)
-
- ⚡ Fun fact :- **Everybody think I am Funny :sweat_smile:**
+```Dart
+const CrazyChickenDev = {
+    name: "Aayush Patel",
+    pronouns: "he" | "him",
+    location: ["Dindoli, Surat"],
+    contact: ["aayushpatel01411@gmail.com"],
+    collaborations: ["Red & White Multimedia", "Self Learner"],
+    workingOn: ["Flutter Development"],
+    learning: ["C", "C++", "Dart", "Flutter", "Python"],
+    askMeAbout: ["My Learnings", "Android Development", "Flutter Development"],
+    hobbies: {
+        major: {
+            indoor: ["Mobiles", "Cooking","watching YouTube", "Gaming", "Discord"],
+	        outdoor: ["Traveling", "Alone Riding"],
+        },
+        funFact: {
+            secret: ["I am Not a Funny Person"],
+        }        
+    }
+};
+```
 
  </div>
  
-<div align="center"> 
-  <a href="aayushpatel01411@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://instagram.com/aayush_patel_014?igshid=YzAwZjE1ZTI0Zg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
+<p align="center">
+	<a href="https://github.com/Aayush014"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="[https://www.linkedin.com/in/nwaobidaniel/](https://www.linkedin.com/in/aayush-patel-b55390296/)"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/nielle.knight.3/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/thecanva_shogun"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+    <a href="https://wa.me/2348022273025"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Whatsapp"/></a>
+    <a href="https://www.reddit.com/user/dannychukz15/"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
+</p>
   
 </div>
 
