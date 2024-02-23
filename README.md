@@ -19,11 +19,11 @@ const CrazyChickenDev = {
     askMeAbout: ["My Learnings", "Android Development", "Flutter Development"],
     hobbies: {
         major: {
-            indoor: ["Mobiles", "Cooking","watching YouTube", "Gaming", "Discord"],
-	        outdoor: ["Traveling", "Alone Riding"],
+            	indoor: ["Mobiles", "Cooking","watching YouTube", "Gaming", "Discord"],
+		outdoor: ["Traveling", "Alone Riding"],
         },
-        funFact: {
-            secret: ["I am Not a Funny Person"],
+	 funFact: {
+            secret: ["I am Not a Funny Person!!"],
         }        
     }
 };
@@ -34,10 +34,7 @@ const CrazyChickenDev = {
 <p align="center">
 	<a href="https://github.com/Aayush014"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="[https://www.linkedin.com/in/nwaobidaniel/](https://www.linkedin.com/in/aayush-patel-b55390296/)"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/nielle.knight.3/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/thecanva_shogun"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-    <a href="https://wa.me/2348022273025"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Whatsapp"/></a>
-    <a href="https://www.reddit.com/user/dannychukz15/"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
+  	<a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
 </p>
   
 </div>
@@ -72,8 +69,6 @@ const CrazyChickenDev = {
   <br/>
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush014&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
 </div>
-
-[![Aayush Patel's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aayush014)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aayush014&label=Profile%20views&color=0e75b6&style=flat" alt="aayush014" /> </p>
