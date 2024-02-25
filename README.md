@@ -7,7 +7,7 @@
 
 <div>
 
-```Dart
+```javascript
 const CrazyFlutterDev = {
     name: "Aayush Patel",
     pronouns: "he" | "him",
