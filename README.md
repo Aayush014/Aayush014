@@ -8,7 +8,7 @@
 <div>
 
 ```Dart
-const CrazyChickenDev = {
+const CrazyFluttaerDev = {
     name: "Aayush Patel",
     pronouns: "he" | "him",
     location: ["Dindoli, Surat"],
