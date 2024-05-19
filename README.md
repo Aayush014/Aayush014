@@ -18,7 +18,7 @@ const CrazyFlutterDev = {
     askMeAbout: ["My Learnings", "Android Development", "Flutter Development"],
     hobbies: {
         major: {
-            	indoor: ["Mobiles", "Cooking","watching YouTube", "Gaming", "Discord"],
+            	indoor: ["Mobiles", "Cooking", "watching YouTube", "Gaming", "Discord"],
 		outdoor: ["Traveling", "Alone Riding"],
         },
 	 funFact: {
