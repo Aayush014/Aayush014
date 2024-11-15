@@ -44,8 +44,8 @@ const CrazyFlutterDev = {
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aiscript,androidstudio,aws,c,cpp,cmake,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=discord,python,bots,flutter,gcp,firebase,kotlin,linkedin,java,visualstudio,twitter" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" />
+    <img src="https://skillicons.dev/icons?i=figma,postman,git,discord,bots,gcp,linkedin,instagram,twitter,idea,netlify,notion,pycharm" /><br>
 </div>
 
 <br/>
