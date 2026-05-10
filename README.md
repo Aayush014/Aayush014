@@ -1,8 +1,6 @@
-<h1 align="center">
-    <img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip+There!+👋;+I'm+Aayush+Patel!;" />
-</h1>
+<h1 align="center"> Hi There! 👋 I'm Aayush Patel! </h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Android+Developer;Self+Learner;Passionate+Coder+from+India" /> </p>
 
-<img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"/>
 
 <div>
 
@@ -44,9 +42,12 @@ const CrazyFlutterDev = {
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" />
-    <img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip,postman,git,discord,bots,gcp,linkedin,instagram,twitter,idea,netlify,notion,pycharm" /><br>
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,python,java,kotlin,php,nodejs,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,git,postman,figma,discord,gcp,netlify,notion,idea,pycharm&theme=dark" />
+
 </div>
+
 
 <br/>
 <hr/>
@@ -54,8 +55,20 @@ const CrazyFlutterDev = {
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip" />
-  
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>  
   <br/>
 </div>
 
